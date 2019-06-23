@@ -1,1 +1,1 @@
-# 107-ajax-timer
+# http://30sharp.com/article/10/107/1/aspnet-ajax-timer.aspx
